@@ -9,16 +9,7 @@
 
 ## 🌟 About Me  
 
-- 🔭 I’m currently working on **SMMAP Project** (React + Kubernetes + Terraform + AKS)  
-- 👯 I’m looking to collaborate on **Cloud & DevOps projects**  
-- 🌱 I’m currently learning **Shell scripting, CI/CD Security, and Cloud-native architectures**  
-- 💬 Ask me about **React, Node.js, Docker, Kubernetes, Terraform, AWS & Azure**  
-- 📫 Reach me at **connectnibras@gmail.com**  
-- 👨‍💻 Check out my work here: [Portfolio](https://theparisessence.com)  
-- 📄 Know more about my experiences → [Resume](https://drive.google.com/file/d/1YpNzVuhmY5LWr4tn0N4qM6z53Z7scvIu/view?usp=sharing)  
-- ⚡ Fun fact: I believe coffee + code = great ideas ☕💡
-- 
-- - 🔭 I’m currently working on **SM-APP Project** (React + Kubernetes + Terraform + EKS)  
+- 🔭 I’m currently working on **SM-APP Project** (React + Kubernetes + Terraform + EKS)  
 - 👯 I’m looking to collaborate on **Cloud & DevOps projects**  
 - 🌱 Experienced in **AWS, Docker, Iac, Kubernetes, CI/CD Security, and Cloud-native architectures**  
 - 💬 Ask me about **React, Node.js, Docker, Kubernetes, Terraform, AWS & Azure**  
@@ -104,7 +95,6 @@
 <p>
   <a href="https://www.linkedin.com/in/nibras-s2002" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
   <a href="https://github.com/Nibras-S" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-  <a href="https://twitter.com" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
   <a href="https://www.instagram.com/_mohd_nibras?igsh=MWpuYnFhbGJoYnMwZA%3D%3D&utm_source=qr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
