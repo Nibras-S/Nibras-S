@@ -1,9 +1,10 @@
 # Hi 👋, I'm Nibras  
-### A Passionate Full-Stack & Cloud Enthusiast from India  
+### Cloud & DevOps Engineer | Full-Stack Developer Enthusiast  
 
-🚀 I'm a developer who loves building web applications, automating infrastructure, and solving real-world problems through technology.  
-💻 With hands-on experience in **MERN stack**, **Cloud (AWS & Azure)**, and **DevOps tools**, I’m continuously learning and growing to deliver scalable and impactful solutions.  
-
+☁️ Passionate about **Cloud, DevOps, and Automation** — I specialize in designing scalable infrastructures, automating deployments, and ensuring system reliability.  
+⚙️ Skilled in **AWS, Azure, Terraform, Docker, Kubernetes, Jenkins, and CI/CD pipelines**, I thrive on building modern cloud-native solutions.  
+💻 Alongside my DevOps journey, I also enjoy **full-stack development (MERN stack)** to create end-to-end applications that connect seamlessly with cloud environments. 
+ 
 ---
 
 ## 🌟 About Me  
