@@ -29,36 +29,63 @@
 
 ---
 
+
 ## 🛠️ Skills & Tools  
+
+### Cloud & DevOps / Monitoring  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=argocd" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=prometheus" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=grafana" />
+</p>
 
 ### Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />  
+  <img src="https://skillicons.dev/icons?i=c" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
 
 ### Frontend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,html,css" />  
+  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 ### Backend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,graphql" />  
+  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />  
-</p>
-
-### DevOps & Cloud  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,bash,nginx,github" />  
+  <img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" />
 </p>
 
 ### Tools & Software  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,photoshop,linux" />  
+  <img src="https://skillicons.dev/icons?i=git" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
@@ -75,8 +102,9 @@
 ## 🌐 Connect With Me  
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
-  <a href="https://github.com/your-github-username" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
-  <a href="https://instagram.com/your-instagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/nibras-s2002" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
+  <a href="https://github.com/Nibras-S" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
+  <a href="https://twitter.com" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
+  <a href="https://www.instagram.com/_mohd_nibras?igsh=MWpuYnFhbGJoYnMwZA%3D%3D&utm_source=qr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
+
