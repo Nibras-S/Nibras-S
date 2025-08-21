@@ -16,7 +16,16 @@
 - 📫 Reach me at **connectnibras@gmail.com**  
 - 👨‍💻 Check out my work here: [Portfolio](https://theparisessence.com)  
 - 📄 Know more about my experiences → [Resume](https://drive.google.com/file/d/1YpNzVuhmY5LWr4tn0N4qM6z53Z7scvIu/view?usp=sharing)  
-- ⚡ Fun fact: I believe coffee + code = great ideas ☕💡  
+- ⚡ Fun fact: I believe coffee + code = great ideas ☕💡
+- 
+- - 🔭 I’m currently working on **SM-APP Project** (React + Kubernetes + Terraform + EKS)  
+- 👯 I’m looking to collaborate on **Cloud & DevOps projects**  
+- 🌱 Experienced in **AWS, Docker, Iac, Kubernetes, CI/CD Security, and Cloud-native architectures**  
+- 💬 Ask me about **React, Node.js, Docker, Kubernetes, Terraform, AWS & Azure**  
+- 📫 Reach me at **connectnibras@gmail.com**  
+- 📄 Know more about my experiences → [Resume](https://drive.google.com/file/d/1YpNzVuhmY5LWr4tn0N4qM6z53Z7scvIu/view?usp=sharing)  
+- 🏆 Passionate about contributing to **open-source projects** and sharing knowledge with the tech community  
+- ⚡ Fun fact: I believe coffee + code = great ideas ☕💡
 
 ---
 
