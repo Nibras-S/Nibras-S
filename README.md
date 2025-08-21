@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=bash" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=nginx" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=githubactions" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=argocd" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/stable/docs/assets/argocd-icon.png" alt="argocd" width="40" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=prometheus" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=grafana" />
 </p>
