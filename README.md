@@ -1,5 +1,8 @@
 # Hi 👋, I'm Nibras  
 ### Cloud & DevOps Engineer | Full-Stack Developer Enthusiast  
+# Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Nibras
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7AB0A&width=500&lines=Cloud+%26+DevOps+Engineer;Full-Stack+Developer+Enthusiast)
+
 
 ☁️ Passionate about **Cloud, DevOps, and Automation** — I specialize in designing scalable infrastructures, automating deployments, and ensuring system reliability.  
 ⚙️ Skilled in **AWS, Azure, Terraform, Docker, Kubernetes, Jenkins, and CI/CD pipelines**, I thrive on building modern cloud-native solutions.  
