@@ -180,15 +180,6 @@ Full-stack MERN application for managing gym members and services.
 * **MongoDB database**
 * REST APIs for services and user management
 
----
-
-# 🏅 Certifications
-
-| Certification              | Issuer                 | Year |
-| -------------------------- | ---------------------- | ---- |
-| *(Add your certification)* | AWS / CNCF / Microsoft | 2024 |
-
----
 
 # 📊 GitHub Stats
 
